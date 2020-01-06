@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// define all variable colors
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #9e9191;
+
+body {
+  background-color: $mainWhite;
+  font-family: "Raleway", sans-serif;
+}
